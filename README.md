@@ -22,7 +22,8 @@ Also, a bash script to automate the backup of logs or sensitive data with time s
 
 <p align="center">
 Import Regex and define file path: <br/>
-![image](https://github.com/user-attachments/assets/03f3fc75-a172-40c1-acac-abaf2a0d8773)
+![image](https://github.com/user-attachments/assets/a6a90635-9192-4040-a4c6-1a4798532aff)
+
 
 
 <br />
