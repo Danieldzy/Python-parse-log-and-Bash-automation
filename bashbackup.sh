@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #define the file that need backup and the backup directory
 file="/home/student/member_data.txt"
