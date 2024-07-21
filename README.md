@@ -48,9 +48,19 @@ The final output is a dictionary that filters out error codes 403 and 404 along 
 <br />
 <br />
 
-Use Bash to automate file backup  <br/>
+<h1>Use Bash to automate file backup  </h1>
 <br />
-Print out parse_log function:  <br/>
+Bash Script is used to back up file member_data.txt, I’ve incorporated a timestamp into the script. This means the filename will bear a new timestamp each time a backup is made, the new file will be saved in /home/Autobackup directory:  <br/>
+<img src="https://i.imgur.com/AOTpcmQ.png" height="80%" width="80%" alt="Backup member_data.txt"/>
+<br />
+<br />
+
+Next, we are creating a Cron job to schedule and automate this backup process Every Wednesday at 12:00 AM. First, we use nano to edit crontab, add the cron command:0 0 * * 3 / home/student/bashbackup.sh:  <br/>
+<img src="https://i.imgur.com/5kkD3GT.png" height="80%" width="80%" alt="Backup member_data.txt"/>
+
+<br />
+
+With these Bash scripts, the system will automatically backup file member_data.txt Every Wednesday at 12:00 AM and save it to the Autobackup directory with a new time stamp.
 <!--
  ```diff
 - text in red
