@@ -28,30 +28,29 @@ Import Regex and define file path: <br/>
 
 <br />
 Define parse_log function:  <br/>
-![image](https://github.com/user-attachments/assets/7780871f-e14c-4a4b-8e75-68b43d810029)
+<img src="https://i.imgur.com/NQTRYDH.png" height="80%" width="80%" alt="Define parse_log"/>
+
+
+
+<br />
+Print out parse_log function:  <br/>
+<img src="https://i.imgur.com/2YCbRSG.png" height="80%" width="80%" alt="Print out parse_log function"/>
+<br />
+<br />
+Format the output, and print out the dictionary that we need:  <br/>
+<img src="https://i.imgur.com/D8rkEpp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+The final output is a dictionary that filters out error codes 403 and 404 along with their associated IP addresses and error code counts. The output shows only 2 counts of the 403 error but significantly more counts of the 404 error, with a notable 60 counts of 404 errors from IP address 208.91.156.11.  <br/>
 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
+Use Bash to automate file backup  <br/>
+<br />
+Print out parse_log function:  <br/>
 <!--
  ```diff
 - text in red
