@@ -2,8 +2,8 @@
 
 
 <h2>Description</h2>
-The project consists of a simple Python script that parses log files based on the Regex pattern, for the script please refer to the Python_script.py file
-Also, a bash script to automate the backup of logs or sensitive data with time stamps
+The project consists of a simple Python script that parses log files based on the Regex pattern, for the script please refer to the Python_script.py found in this repository.
+In addition, a bash script to automate the backup of logs or sensitive data with time stamps.
 <br />
 
 
